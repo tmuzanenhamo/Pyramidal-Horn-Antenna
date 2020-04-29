@@ -1,0 +1,1 @@
+ -n 2 -localonly -localhost Tawanda -envall -mapall "C:\Program Files\Altair\2019-edu\feko\bin\feko_mkl.csv.impi.exe" "Project 1" "--run-from-gui"
